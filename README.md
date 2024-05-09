@@ -21,3 +21,6 @@ bf01c-84a9a
 57773-7ef14
 641be-c037f
 0c931-59cb3
+
+
+google auth https://aitpuneedu-my.sharepoint.com/:u:/g/personal/adityatiwari_21305_aitpune_edu_in/EUrsCYVgXFJPuB6sBX9NA60BeZGn6Zxeigq06oWvQztnYQ
